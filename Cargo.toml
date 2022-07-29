@@ -1,7 +1,7 @@
 [package]
 name = "cvt"
-version = "0.0.1"
-authors = ["anthony"]
+version = "0.0.2"
+authors = ["anthony chester"]
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
